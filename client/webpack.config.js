@@ -40,6 +40,7 @@ module.exports = () => {
         exclude: [/.../, "...", "node_modules"],
         maximumFileSizeToCacheInBytes: 400000,
         swSrc: "./src-sw.js",
+        publicPath: "",
       }),
     ],
 
