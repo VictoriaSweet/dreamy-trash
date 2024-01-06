@@ -9,9 +9,7 @@
     "server": "",
     "build": "",
     "install": "",
-    "client": "",
-    "generate-sw": "workbox generateSW workbox-config.js",
-    "inject-manifest": "workbox injectManifest workbox-config.js"
+    "client": ""
   },
   "keywords": [],
   "author": "",
@@ -24,6 +22,4 @@
     "concurrently": "^5.2.0",
     "nodemon": "^2.0.4"
   }
-
-  
 }
