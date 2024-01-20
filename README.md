@@ -15,7 +15,7 @@ starter code provided from the repo of https://github.com/coding-boot-camp/cauti
 ## License
 MIT
 
-#Screenshot of deployed application
+##Screenshot of deployed application
 ![screenshot of the deployed application](image.png)
 
 ### Questions?
